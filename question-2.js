@@ -6,4 +6,4 @@ let english = 44;
 
 let avg= math + hindi + english /3;
 
-console.log(avg);
+console.log(avg); //102.6666
