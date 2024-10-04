@@ -32,7 +32,7 @@ switch (day) {
                         
      break;                                        
     default:
-        console.log();
+        console.log("day not defined");
         
         break;
 }

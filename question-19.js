@@ -8,6 +8,6 @@
 
  console.log(name.slice(4,9));
  console.log(name.indexOf("na"));
- console.log(name.replace("Apna","our"));
+ console.log(name.replace("apna","our"));
  
  
